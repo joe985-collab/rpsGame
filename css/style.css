@@ -1,0 +1,27 @@
+body{
+  background-color: #94B3FD
+}
+.container{
+  text-align: center;
+  margin: auto;
+  width: 60%;
+}
+h1{
+  font-family: 'Cormorant';
+  font-size: 5rem;
+  font-weight: bold;
+  color: #fdde94
+}
+.players{
+  text-align: center;
+  display: inline-block;
+  margin: 10px 50px 10px;
+}
+p{
+  font-family: 'Merienda';
+  font-size: 2rem;
+  color: #fdde94
+}
+.complay{
+  margin-top: 86px;
+}
